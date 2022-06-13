@@ -1,4 +1,4 @@
-NAME = osixia/light-baseimage
+NAME = quay.io/cip-core-platform/light-baseimage
 VERSION = 1.3.3
 
 .PHONY: build build-nocache test tag-latest push push-latest release git-tag-version
